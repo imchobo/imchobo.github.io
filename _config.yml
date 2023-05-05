@@ -20,7 +20,7 @@ title                    : "코딩초보"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "C++언어기초"
-description              : "An amazing website."
+description              : "코딩공부 파이팅"
 url                      : "https://imchobo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
