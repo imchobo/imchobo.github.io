@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "코딩초보의 코딩이야기"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "살려줘.."
+  location         : "0과 1사이"
+  email            : returngame110@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
